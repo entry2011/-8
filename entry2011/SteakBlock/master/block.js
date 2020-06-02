@@ -1,6 +1,6 @@
 //스테이크 블록은 0.5버전 입니다.
 //모든 코드는 2차제작, 2차 배포가 가능합니다.
-Entry.staticBlocks = [
+Entry.steakBlocks = [
 {
 category: 'start',
 blocks: [
